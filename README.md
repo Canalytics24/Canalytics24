@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - Outstanding balance > 50% of the original loan amount.
 - More than 2 missed repayments.
 - Loan tenure exceeds 12 months.
--->
+--!>
